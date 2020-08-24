@@ -1,4 +1,4 @@
-# Search the Met
+# Blog Posts
 
 By [Anusha Gadepalli](mailto:anushagadepalli2.com)
 
